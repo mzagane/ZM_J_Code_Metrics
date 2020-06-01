@@ -3,12 +3,15 @@ Tool to calculate code metrics based on the XML representation of the source cod
 
 1) Metrics that can be calculated in the actual version (1.06.06.2020)
 
+
 1.1) LOC :
   - Total lines (physic lines),
   - lines of comments,
   - Bank lines
+  
 1.2) McCab Metrics :
   - McCab Number (cyclomatic complexity)
+  
 1.3) Halstead complexity metrics :
   - n1: Number of distinct operators
   - n2: Number of distinct operands  
@@ -23,6 +26,7 @@ Tool to calculate code metrics based on the XML representation of the source cod
   - T: Time Required To Program     
   - B1 :Number of delivered bugs    
   - B2 :Number of delivered bugs     
+ 
  
  2) Programming languages supported:
  
