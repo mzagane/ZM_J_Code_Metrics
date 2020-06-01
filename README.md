@@ -7,7 +7,7 @@ Tool to calculate code metrics based on the XML representation of the source cod
 1.1) LOC :
   - Total lines (physic lines),
   - lines of comments,
-  - Bank lines
+  - Blank lines
   
 1.2) McCab Metrics :
   - McCab Number (cyclomatic complexity)
