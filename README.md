@@ -38,4 +38,12 @@ Tool to calculate code metrics based on the XML representation of the source cod
  commands,... which are stored in a config file (property file). When trying to add a language this parameters must be taken
  in account (may be this is the most thing to do to add a language :)
  
+ 3) Funding request :
+I am looking for funding, to improve the project by:
+- Code Metrics: adding support for other languages, adding other metrics, improving performance
+- Other type of fact extraction: Bags of words, Tokens embedding,...
+- Funding is for:
+- My own time (development and research),
+- Upgrading Github account
+ 
  
